@@ -99,3 +99,4 @@ cleos set account permission hello active '{"threshold": 1, "keys":[{"key":"EOS6
 cleos push action hello homework2 '["game"]' -p hello@active 
 ```
 > 只有hello账户有权限，其他账户无权限
+![结果](https://github.com/WangYangA9/EOSContractHomework/blob/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/homework2.png)
